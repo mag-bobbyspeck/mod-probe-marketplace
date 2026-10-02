@@ -4,7 +4,7 @@ A one-plugin marketplace holding `mod-probe`, a throwaway plugin that shows whet
 client loads mods and what a mod can do there. It backs ROADMAP P16 in
 [magnopus/mcp-tool-guidance-plugin](https://github.com/magnopus/mcp-tool-guidance-plugin), which
 has the results so far. The plugin's own README has the signals, the results table and the test
-matrix.
+matrix. Archive this repo after testing.
 
 ## Install, CLI and VS Code
 
