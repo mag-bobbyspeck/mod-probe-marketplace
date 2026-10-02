@@ -1,0 +1,6 @@
+{
+  "name": "mod-probe",
+  "version": "0.2.1",
+  "description": "Throwaway probe: reports whether this client loads Claude Code mods. Adds one context line per prompt and denies only a sentinel tool call.",
+  "author": { "name": "Bobby Speck" }
+}

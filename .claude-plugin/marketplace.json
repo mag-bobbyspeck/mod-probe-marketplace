@@ -1,0 +1,16 @@
+{
+  "name": "mod-probe-marketplace",
+  "owner": {
+    "name": "Bobby Speck"
+  },
+  "metadata": {
+    "description": "Throwaway probe for where Claude Code mods run, for the Magnopus guidance plugin's ROADMAP P16."
+  },
+  "plugins": [
+    {
+      "name": "mod-probe",
+      "source": "./mod-probe",
+      "description": "Reports whether this client loads Claude Code mods. Adds one context line per prompt and denies only a sentinel tool call."
+    }
+  ]
+}

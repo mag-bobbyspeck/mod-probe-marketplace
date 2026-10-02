@@ -1,0 +1,4 @@
+{
+  "description": "The mod-probe hooks module",
+  "modules": ["./register.js"]
+}
